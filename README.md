@@ -39,7 +39,7 @@ This project analyzes over a decade of motor vehicle accident data across New Yo
 ---
 
 ## Dashboard 
-
+Click here to view on Tableau Public https://public.tableau.com/app/profile/omkar.naik1180/viz/NYCCarAccidentDashboard/Dashboard1?publish=yes
 ![NYC Car Accidents Dashboard](Image/dashboard.png)
 
 ## 📊 Key Insights Aligned to Business Goals
