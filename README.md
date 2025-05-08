@@ -11,7 +11,7 @@ This project analyzes over a decade of motor vehicle accident data across New Yo
 
 ## 📂 Data Overview
 
-- **Source**: NYC Vehicle Collision Dataset [https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes/resource/b5a431d2-4832-43a6-9334-86b62bdb033f] 
+- **Source**: NYC Vehicle Collision Dataset [Dataset](https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes/resource/b5a431d2-4832-43a6-9334-86b62bdb033f) 
 - **Timeframe**: 2012 – 2025  
 - **Key Features**: Crash date, time, borough, vehicle type, number of people killed/injured, location information
 
@@ -39,7 +39,7 @@ This project analyzes over a decade of motor vehicle accident data across New Yo
 ---
 
 ## Dashboard 
-Click here to view on Tableau Public https://public.tableau.com/app/profile/omkar.naik1180/viz/NYCCarAccidentDashboard/Dashboard1?publish=yes
+[View on Tableau Public](https://public.tableau.com/app/profile/omkar.naik1180/viz/NYCCarAccidentDashboard/Dashboard1?publish=yes)
 ![NYC Car Accidents Dashboard](Image/dashboard.png)
 
 ## 📊 Key Insights Aligned to Business Goals
@@ -57,7 +57,6 @@ Click here to view on Tableau Public https://public.tableau.com/app/profile/omka
 - **Brooklyn** reported the **highest number of fatal accidents**, with a noticeable increase during the `6AM–12PM` and `6PM–12AM` windows.
 - **The Bronx** mirrored patterns seen in Queens and Brooklyn, particularly showing an **increasing trend of fatal and major accidents in the `12AM–6AM` period**.
 - **Staten Island** had the **lowest and most stable count of fatal accidents**, despite following similar trends for minor and major incidents.
-- The COVID-19 period (2020–2021) saw a **dip in accident counts**, most evident in Brooklyn, followed by a rebound in the subsequent years.
 
 ---
 
