@@ -11,7 +11,7 @@ This project analyzes over a decade of motor vehicle accident data across New Yo
 
 ## 📂 Data Overview
 
-- **Source**: NYC Vehicle Collision Dataset [Dataset](https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes/resource/b5a431d2-4832-43a6-9334-86b62bdb033f) 
+- **Source**: NYC Vehicle Collision Dataset [data.gov](https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes) 
 - **Timeframe**: 2012 – 2025  
 - **Key Features**: Crash date, time, borough, vehicle type, number of people killed/injured, location information
 
@@ -19,9 +19,9 @@ This project analyzes over a decade of motor vehicle accident data across New Yo
 
 ## 🧪 Methodology
 
-### 1. Data Acquisition & Initial Cleaning (Excel)
+### 🔹 Data Acquisition & Initial Cleaning (Excel)
 
-- Used Excel Power Query to load raw data and dropped columns which were not relevent. 
+- Used Excel Power Query to load raw data and dropped columns which were not relevant. 
 - Created new columns to to count the number of people killed/injured in the accident. 
 - Also created a categorical column to check if the accident was fatal (at least one person is killed), major (involves an injured person) or minor.
 
