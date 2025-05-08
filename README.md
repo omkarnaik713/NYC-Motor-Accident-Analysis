@@ -84,4 +84,3 @@ Based on the analysis, the following recommendations can be made for the deploym
    - In contrast, **Queens and Brooklyn** consistently show high accident rates, so the self-driving system should engage more advanced safety checks and real-time monitoring in these areas.
 
 ---
-# NYC-Motor-Accident-Analysis
